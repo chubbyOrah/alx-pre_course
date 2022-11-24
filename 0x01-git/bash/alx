@@ -1,4 +1,2 @@
-ALX
-bin/bash
-ALX
-ALX is so cool
+#!/bash/bin
+echo "ALX School"
